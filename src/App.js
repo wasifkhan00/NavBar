@@ -10,7 +10,7 @@ function App() {
         first="home"
         second="Privacy"
         third="policy"
-        fourth="stephs"
+        fourth="steph"
       />
     </>
   );
